@@ -1,8 +1,8 @@
 ---
-title: Working with us
+title: Fees
 bg: color4
 color: white
-fa-icon: question
+icon: img/working.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam ante, maximus a dictum eget, ultrices quis ante. Suspendisse potenti. Mauris eget nulla est. Nunc varius sapien varius, consequat sapien sed, malesuada magna. 

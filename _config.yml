@@ -48,14 +48,14 @@ colors:
     light: '#0fbfcf'
     dark: '#0fbfcf'
   color1:
-    light: '#44647D'
-    dark: '#687580'
+    light: '#E3E1D3'
+    dark: '#DCBB7D'
   color2:
-    light: '#EAF5FF'
-    dark: '#A6BBCC'
+    light: '#B65558'
+    dark: '#8F4244'
   color3:
-    light: '#ECF1F6'
-    dark: '#B3C6DD'
+    light: '#828BA1'
+    dark: '#595F6D'
   color4:
-    light: '#7B9CC3'
-    dark: '#4372AA'
+    light: '#C8BFCA'
+    dark: '#9A8A98'
