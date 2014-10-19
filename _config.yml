@@ -47,3 +47,15 @@ colors:
   turquoise:
     light: '#0fbfcf'
     dark: '#0fbfcf'
+  color1:
+    light: '#44647D'
+    dark: '#687580'
+  color2:
+    light: '#EAF5FF'
+    dark: '#A6BBCC'
+  color3:
+    light: '#ECF1F6'
+    dark: '#B3C6DD'
+  color4:
+    light: '#7B9CC3'
+    dark: '#4372AA'
