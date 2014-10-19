@@ -13,4 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam ante, ma
 
 Praesent purus diam, consectetur vitae tellus nec, eleifend lobortis neque. 
 
-Uh oh Oliver found all of the awesome customization options for gh_pages! ![](https://dl.dropboxusercontent.com/u/2822886/uh_oh_someone_is_trying_to_think_on_iorek.jpg)
+Note from Rory: 
+
+> Uh oh Oliver found all of the awesome customization options for gh_pages!
