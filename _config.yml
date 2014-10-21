@@ -59,3 +59,6 @@ colors:
   color4:
     light: '#C8BFCA'
     dark: '#9A8A98'
+  color5:
+    light: '#A1A1A1'
+    dark: '#757575'
