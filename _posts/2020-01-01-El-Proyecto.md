@@ -22,7 +22,7 @@ En este sitio puedes conocer la información del proyecto y contactar a los resp
 Si quieres participar e ir a la página de videos [da click aquí](https://www.youtube.com/watch?v=r0Qxj7Sd5vY)
 
 <span id="forkongithub">
-  <a href="{{ site.source_link }}" class="bg-blue">
-    Ver más documentación
+  <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
+    See subsite in English
   </a>
 </span>
