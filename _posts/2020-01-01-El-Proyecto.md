@@ -9,7 +9,7 @@ style: center
 {: .text-blue}
 
 <div class="icontain">
-  <iframe src="youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
+  <iframe src="http://youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
 </div>
 
 
