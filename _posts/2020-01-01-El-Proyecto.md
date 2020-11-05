@@ -4,14 +4,15 @@ bg: white
 color: black
 style: center
 ---
+
+# Sistema Kool Ja: _Captador de agua de lluvia_ para la milpa maya
+{: .text-blue}
+
 <span id="forkongithub">
   <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
     Click here for English
   </a>
 </span>
-
-# Sistema Kool Ja: *Captador de agua de lluvia* para la milpa maya
-{: .text-blue}
 
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/CfKIvPEsdOw" allow="accelerometer; autoplay" allowfullscreen></iframe>
