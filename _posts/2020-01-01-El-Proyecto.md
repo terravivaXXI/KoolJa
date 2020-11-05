@@ -25,6 +25,6 @@ Ver el agua del sistema
 
 <span id="forkongithub">
   <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
-    Learn about Kool Ja in English
+    Click here for English
   </a>
 </span>
