@@ -18,7 +18,6 @@ A finales de 2015 Kool Ja surgió como una colaboración impulsada por la organi
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/CfKIvPEsdOw" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
-Sistema Kool Ja de la familia Chay en el Oriente de Yucatán grabado en 
 
 
 ## Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
