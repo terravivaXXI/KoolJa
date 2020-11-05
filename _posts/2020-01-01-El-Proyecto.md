@@ -12,18 +12,19 @@ style: center
   <iframe src="youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
 </div>
 
+
 # Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
 {: .text-blue}
 
 
 En este sitio puedes conocer la información del proyecto y contactar a los responsables
 
-Si quieres participar e ir a la página de videos [da click aquí](https://www.youtube.com/watch?v=r0Qxj7Sd5vY)
+Si quieres participar e ir a la página de videos [da click aquí](https://www.youtube.com/)
 
 
 
 <span id="forkongithub">
   <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
-    See subsite in English
+    Learn about Kool Ja in English
   </a>
 </span>
