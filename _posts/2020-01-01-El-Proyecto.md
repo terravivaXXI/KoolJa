@@ -21,12 +21,13 @@ Si quieres participar e ir a la página de videos [da click aquí](https://www.y
 
 Ver el agua del sistema
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9s9aIzRF1ME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9s9aIzRF1ME" allow="accelerometer; autoplay" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/IMZLfZozTgo" allow="accelerometer; autoplay" allowfullscreen></iframe>
 
 <span id="forkongithub">
   <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
     Click here for English
   </a>
 </span>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IMZLfZozTgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
