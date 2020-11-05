@@ -8,9 +8,7 @@ style: center
 ### Sistema Kool Ja: Captador de AGUA DE LLUVIA para la milpa maya tradicional
 {: .text-blue}
 
-<div class="icontain">
-  <iframe src="http://youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfKIvPEsdOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
