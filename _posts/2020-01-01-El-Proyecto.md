@@ -2,6 +2,7 @@
 title: "proyecto"
 bg: white
 color: black
+icon: img/favicon.ico
 style: center
 ---
 
@@ -20,6 +21,10 @@ style: center
 En este sitio puedes conocer la información del proyecto y contactar a los responsables
 
 Si quieres participar e ir a la página de videos [da click aquí](https://www.youtube.com/watch?v=r0Qxj7Sd5vY)
+
+<div class="icontain">
+  <iframe src="//https://youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
+</div>
 
 <span id="forkongithub">
   <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
