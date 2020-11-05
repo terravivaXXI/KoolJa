@@ -29,6 +29,7 @@ El agua de lluvia captada, cuando la cisterna se encuentra adecuadamente cubiert
 </div>
 
 ## Tener agua en la milpa asegura la producción y abre un abanico de opciones
+{: .text-blue}
 
 La disponibilidad de agua en la milpa transforma la dinámica productiva de los maestros milperos, permitiendo la adopción de prácticas que son inviables cuando se depende únicamente de la lluvia
 
