@@ -5,7 +5,7 @@ color: black
 style: center
 ---
 
-# Sistema Kool Ja: _Captador de agua de lluvia_ para la milpa maya
+# Sistema Kool Ja: **Captador de agua de lluvia** para la milpa maya
 {: .text-blue}
 
 <span id="forkongithub">
@@ -14,6 +14,8 @@ style: center
   </a>
 </span>
 
+A finales de 2015 Kool Ja surgió como una colaboración impulsada por la organización [Uyoolche AC](https://www.facebook.com/Uyoolche) para mejorar la seguridad hídrica de la milpa en la Península de Yucatán. Tras muchas etapas de prototipamiento ya existe una versión 1.2 que funciona muy bien.
+
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/CfKIvPEsdOw" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
@@ -21,16 +23,13 @@ style: center
 ## Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
 {: .text-blue}
 
-
-En este sitio puedes conocer la información del proyecto y contactar a los responsables
-
-Si quieres participar e ir a la página de videos [da click aquí](https://www.youtube.com/)
-
-Ver el agua del sistema
+El agua de lluvia captada, cuando la cisterna se encuentra adecuadamente cubierta por mallasombra de alta densidad, es de altísima calidad.
 
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/9s9aIzRF1ME" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
+
+La disponibilidad de agua en la milpa transforma la dinámica productiva de los maestros milperos, permitiendo la adopción de prácticas que son inviables cuando se depende únicamente de la lluvia
 
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/IMZLfZozTgo" allow="accelerometer; autoplay" allowfullscreen></iframe>
