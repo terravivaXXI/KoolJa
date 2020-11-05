@@ -4,8 +4,13 @@ bg: white
 color: black
 style: center
 ---
+<span id="forkongithub">
+  <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
+    Click here for English
+  </a>
+</span>
 
-### Sistema Kool Ja: Captador de AGUA DE LLUVIA para la milpa maya tradicional
+### Sistema Kool Ja: Captador de agua de lluvia para la milpa maya
 {: .text-blue}
 
 <div class="icontain">
@@ -30,8 +35,4 @@ Ver el agua del sistema
 
 <iframe src="https://www.youtube.com/embed/IMZLfZozTgo" allow="accelerometer; autoplay" allowfullscreen></iframe>
 
-<span id="forkongithub">
-  <a href="https://storymaps.arcgis.com/stories/f5bb9a0b7ac54091826ed08503f0e225" class="bg-blue">
-    Click here for English
-  </a>
-</span>
+
