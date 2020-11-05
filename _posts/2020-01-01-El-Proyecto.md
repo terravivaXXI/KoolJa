@@ -19,7 +19,7 @@ A finales de 2015 Kool Ja surgió como una colaboración impulsada por la organi
  <iframe src="https://www.youtube.com/embed/CfKIvPEsdOw" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
 
-# Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
+## Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
 {: .text-blue}
 
 El agua de lluvia captada, cuando la cisterna se encuentra adecuadamente cubierta por mallasombra de alta densidad, es de altísima calidad.
@@ -28,7 +28,7 @@ El agua de lluvia captada, cuando la cisterna se encuentra adecuadamente cubiert
  <iframe src="https://www.youtube.com/embed/9s9aIzRF1ME" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
 
-# Tener agua en la milpa asegura la producción y abre un abanico de opciones
+## Tener agua en la milpa asegura la producción y abre un abanico de opciones
 
 La disponibilidad de agua en la milpa transforma la dinámica productiva de los maestros milperos, permitiendo la adopción de prácticas que son inviables cuando se depende únicamente de la lluvia
 
