@@ -14,12 +14,13 @@ style: center
   </a>
 </span>
 
-A finales de 2015 Kool Ja surgió como una colaboración impulsada por la organización [Uyoolche AC](https://www.facebook.com/Uyoolche) para mejorar la seguridad hídrica de la milpa en la Península de Yucatán. Tras muchas etapas de prototipamiento ya existe una versión 1.2 que funciona muy bien.
+A finales de 2015 Kool Ja surgió como una colaboración impulsada por la organización [Uyoolche AC](https://www.facebook.com/Uyoolche) para mejorar la seguridad hídrica de la milpa en la Península de Yucatán. Tras muchas etapas de prototipamiento logramos construir una versión 1.2 que capta 30 mil litros de agua a inicios de la temporada (se requieren varias lluvias fuertes en mayo y junio).
 
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/CfKIvPEsdOw" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
 
+### 
 ## Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
 {: .text-blue}
 
