@@ -10,17 +10,14 @@ style: center
   </a>
 </span>
 
-### Sistema Kool Ja: Captador de agua de lluvia para la milpa maya
+# Sistema Kool Ja: Captador de agua de lluvia para la milpa maya
 {: .text-blue}
 
 <div class="icontain">
  <iframe src="https://www.youtube.com/embed/CfKIvPEsdOw" allow="accelerometer; autoplay" allowfullscreen></iframe>
 </div>
 
-
-
-
-# Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
+## Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
 {: .text-blue}
 
 
@@ -30,9 +27,13 @@ Si quieres participar e ir a la página de videos [da click aquí](https://www.y
 
 Ver el agua del sistema
 
-<iframe src="https://www.youtube.com/embed/9s9aIzRF1ME" allow="accelerometer; autoplay" allowfullscreen></iframe>
+<div class="icontain">
+ <iframe src="https://www.youtube.com/embed/9s9aIzRF1ME" allow="accelerometer; autoplay" allowfullscreen></iframe>
+</div>
 
+<div class="icontain">
+ <iframe src="https://www.youtube.com/embed/IMZLfZozTgo" allow="accelerometer; autoplay" allowfullscreen></iframe>
+</div>
 
-<iframe src="https://www.youtube.com/embed/IMZLfZozTgo" allow="accelerometer; autoplay" allowfullscreen></iframe>
 
 
