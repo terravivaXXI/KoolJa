@@ -23,7 +23,7 @@ En este sitio puedes conocer la información del proyecto y contactar a los resp
 Si quieres participar e ir a la página de videos [da click aquí](https://www.youtube.com/watch?v=r0Qxj7Sd5vY)
 
 <div class="icontain">
-  <iframe src="//https://youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
+  <iframe src="//www.youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
 </div>
 
 <span id="forkongithub">
