@@ -10,7 +10,7 @@ style: center
   </a>
 </span>
 
-# Sistema Kool Ja: Captador de agua de lluvia para la milpa maya
+# Sistema Kool Ja: *Captador de agua de lluvia* para la milpa maya
 {: .text-blue}
 
 <div class="icontain">
