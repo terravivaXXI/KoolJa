@@ -9,7 +9,7 @@ style: center
 {: .text-blue}
 
 <div class="icontain">
-  <iframe src="//youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
+  <iframe src="youtu.be/CfKIvPEsdOw" allowfullscreen></iframe>
 </div>
 
 # Una ecotecnia desarrollada en la Península de Yucatán para atender la crítica necesidad de riego
