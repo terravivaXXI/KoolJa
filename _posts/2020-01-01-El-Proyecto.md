@@ -1,11 +1,11 @@
 ---
-title: "proyecto kool ja"
+title: "proyecto"
 bg: white
 color: black
 style: center
 ---
 
-### *Capta el AGUA DE LLUVIA en la milpa maya tradicional*
+### Sistema Kool Ja: Captador de AGUA DE LLUVIA para la milpa maya tradicional
 {: .text-blue}
 
 <span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
