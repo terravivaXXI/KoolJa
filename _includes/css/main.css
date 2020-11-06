@@ -354,3 +354,19 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+.img-sponsor {
+    padding: 15px 30px;
+    display: inline;
+    max-width: 100%;
+    height: 90px;
+    vertical-align: middle;
+}
+
+#sponsors {
+    background-color: #EEE !important;
+}
+
+#sponsors a {
+    text-decoration: none;
+}
